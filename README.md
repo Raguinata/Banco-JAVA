@@ -3,6 +3,10 @@
 Este projeto consiste em um sistema de banco desenvolvido em Java. O objetivo é oferecer aos usuários uma plataforma para realizar transações financeiras, consultar saldo, extrato, entre outras funcionalidades.
 Funcionalidades
 
+<h2>Video de Teste</h2>
+
+https://youtu.be/2YsRdfWAkyI
+
 <h2>Algumas das principais funcionalidades do sistema são:</h2>
 
     Cadastro de clientes
@@ -11,14 +15,21 @@ Funcionalidades
     Transferências entre contas
     Consulta de saldo e extrato
 
-<h2>Como instalar e executar</h2>
+<h2>Como criar e executar um clone do projeto</h2>
 
-Para instalar e executar o sistema, siga os seguintes passos:
+Para fazer um clone desse projeto, siga as seguintes etapas:
 
-    Faça o download do projeto para o seu computador.
-    Abra o terminal e navegue até a pasta do projeto.
-    Compile o código-fonte utilizando o comando javac *.java.
-    Execute o programa com o comando java Main.
+    Abra o terminal do seu sistema operacional.
+    Navegue até o diretório em que você deseja clonar o repositório do projeto.
+    Execute o comando git clone https://github.com/Raguinata/Banco-JAVA.git.
+    Aguarde o processo de clonagem ser concluído.
+    Abra o projeto em sua IDE de preferência.
+
+Para executar o projeto, você pode seguir os seguintes passos:
+
+    Abra o projeto em sua IDE de preferência.
+    Compile o projeto clicando em "Build" ou usando o comando de compilação da IDE.
+    Execute o projeto clicando em "Run" ou usando o comando de execução da IDE.
 
 <h2>Contribuições</h2>
 
