@@ -7,6 +7,8 @@ Funcionalidades
 
 https://youtu.be/2YsRdfWAkyI
 
+Trilha Sonora utilizada no video: https://www.youtube.com/watch?v=ORRXbrRlkbk
+
 <h2>Algumas das principais funcionalidades do sistema são:</h2>
 
     Cadastro de clientes
