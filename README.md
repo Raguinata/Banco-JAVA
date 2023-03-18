@@ -1,4 +1,4 @@
-##Banco JAVA
+<h1>Banco JAVA</h1>
 
 Este projeto consiste em um sistema de banco desenvolvido em Java. O objetivo é oferecer aos usuários uma plataforma para realizar transações financeiras, consultar saldo, extrato, entre outras funcionalidades.
 Funcionalidades
